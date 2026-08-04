@@ -66,6 +66,7 @@ class PuppetAgentCollector(diamond.collector.Collector):
 
 Python 2·취약 YAML 역직렬화·무방비 I/O 예외 처리로 인해 모니터링 에이전트 장애와 RCE 위험을 동시에 가진 레거시 수집기.
 
+제안패치
 # coding=utf-8
 
 """
